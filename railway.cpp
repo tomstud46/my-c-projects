@@ -8,14 +8,6 @@
 #include <limits> // numeric_limits
 #include <vector> // vector
 #include <functional> // function
-                  // sec 3  railway system reservation project  group members 
-// tomas chen ugr/35515/16  group 6
-// selamawit dereje ugr/35379/16   g 6
-// dina dereje  ugr/34238/16   g6 
-// anen werkneh ugr/33938/16    g6
-// gemechisa toesa  ugr/34496/16  g 5
-// tsedey dagmawi   ugr/35516/16  g5              
-//qabso wakweya    ugr/35216/16   g5
 using namespace std;
 
 // Route structure to represent edges in the graph (routes between stations)
